@@ -82,7 +82,7 @@ function Header({
                 </Link>
                 <div className="flex items-center gap-x-8">
                     <Button
-                        href="https://ggtmza275m3.typeform.com/to/zXDl6W41"
+                        href="https://tally.so/r/woMgLO"
                         target="_blank"
                         invert={invert}
                     >

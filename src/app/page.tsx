@@ -123,13 +123,13 @@ export default async function Home() {
                         className="font-display text-5xl font-medium tracking-tight
                         text-neutral-950 [text-wrap:balance] sm:text-7xl"
                     >
-                        Easily Deploy Computer Vision Models to the Edge
+                        A Faster Pipeline For Optimizing Vision Models
                     </h1>
                     <p className="mt-6 text-xl text-neutral-600">
-                        We&apos;re building an open-source framework that streamlines
-                        model compression and optimization for NVIDIA edge devices.
-                        Designed to be the most developer-friendly framework that helps
-                        you deploy vision models quickly and seamlessly.
+                        We&apos;re building a platform that streamlines model
+                        compression and optimization for real-time inference. Miru is
+                        designed to be the most developer-friendly tool that helps you
+                        deploy your vision models quickly and seamlessly.
                     </p>
                 {/* </FadeIn> */}
             </Container>

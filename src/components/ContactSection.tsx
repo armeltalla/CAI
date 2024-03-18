@@ -20,7 +20,7 @@ export function ContactSection() {
                         </h2>
                         <div className="mt-6 flex">
                             <Button 
-                                href="https://ggtmza275m3.typeform.com/to/zXDl6W41"
+                                href="https://tally.so/r/woMgLO"
                                 target='_blank'
                                 invert
                             >

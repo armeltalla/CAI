@@ -7,7 +7,7 @@ import '@/styles/tailwind.css'
 export const metadata: Metadata = {
   title: {
     template: '%s - CAI',
-    default: 'CAI - Edge Deployment for Computer Vision ',
+    default: 'Miru ML - Edge Deployment for Computer Vision ',
   },
 }
 
