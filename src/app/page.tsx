@@ -123,13 +123,13 @@ export default async function Home() {
                         className="font-display text-5xl font-medium tracking-tight
                         text-neutral-950 [text-wrap:balance] sm:text-7xl"
                     >
-                        A Faster Pipeline For Optimizing Vision Models
+                        CI/CD for deploying models onto robots
                     </h1>
                     <p className="mt-6 text-xl text-neutral-600">
-                        We&apos;re building a platform that streamlines model
-                        compression and optimization for real-time inference. Miru is
-                        designed to be the most developer-friendly tool that helps you
-                        deploy your vision models quickly and seamlessly.
+                        We&apos;re building a platform that streamlines deploying
+                        deep learning models onto robots. Miru includes model registry
+                        and fleet management tools that empower you to update, monitor,
+                        and maintain software on your robot.
                     </p>
                 {/* </FadeIn> */}
             </Container>
