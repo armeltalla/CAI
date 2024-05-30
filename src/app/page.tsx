@@ -111,25 +111,22 @@ function Services() {
 
 export const metadata: Metadata = {
     description:
-        'CAI Labs makes it extremely easy to deploy computer vision models to the edge.'
+        'Miru streamlines deploying deep learning models onto robots.',
 }
 
 export default async function Home() {
     return (
         <>
             <Container className="mt-24 sm:mt-32 md:mt-56">
-                {/* <FadeIn className="max-w-3xl"> */}
+                {/* <FadeIn className="max-w-3</FadeIn>xl"> */}
                     <h1
                         className="font-display text-5xl font-medium tracking-tight
                         text-neutral-950 [text-wrap:balance] sm:text-7xl"
                     >
-                        CI/CD for deploying models onto robots
+                        Model Deployment Infrastructure for Robotics
                     </h1>
-                    <p className="mt-6 text-xl text-neutral-600">
-                        We&apos;re building a platform that streamlines deploying
-                        deep learning models onto robots. Miru includes model registry
-                        and fleet management tools that empower you to update, monitor,
-                        and maintain software on your robot.
+                    <p className="mt-6 max-w-[50rem] text-xl text-neutral-600">
+                        Connect your model registry to the real world. Manage model versions, dynamically rollout/rollback, and one-click deploy directly to your robots.
                     </p>
                 {/* </FadeIn> */}
             </Container>

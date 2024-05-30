@@ -7,7 +7,7 @@ import '@/styles/tailwind.css'
 export const metadata: Metadata = {
   title: {
     template: '%s - Miru',
-    default: 'Miru - CI/CD for Robotics',
+    default: 'Miru - Deployment Infrastructure for Robotics',
   },
 }
 
