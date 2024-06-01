@@ -125,7 +125,7 @@ export default async function Home() {
                     >
                         Model Deployment Infrastructure for Robotics
                     </h1>
-                    <p className="mt-6 max-w-[50rem] text-xl text-neutral-600">
+                    <p className="mt-6 max-w-[56rem] text-xl text-neutral-600">
                         Combat data drift and save hours of manual work. Miru&apos;s pipeline
                         helps you automatically collect data on the edge, re-train your
                         models, and quickly deploy them back to the real world.
