@@ -111,7 +111,7 @@ function Services() {
 
 export const metadata: Metadata = {
     description:
-        'Miru streamlines deploying deep learning models onto robots.',
+        'Miru is the model deployment infrastructure for robotics.',
 }
 
 export default async function Home() {
@@ -126,7 +126,9 @@ export default async function Home() {
                         Model Deployment Infrastructure for Robotics
                     </h1>
                     <p className="mt-6 max-w-[50rem] text-xl text-neutral-600">
-                        Connect your model registry to the real world. Manage model versions, dynamically rollout/rollback, and one-click deploy directly to your robots.
+                        Combat data drift and save hours of manual work. Miru's pipeline
+                        helps you automatically collect data on the edge, re-train your
+                        models, and quickly deploy them back to the real world.
                     </p>
                 {/* </FadeIn> */}
             </Container>
