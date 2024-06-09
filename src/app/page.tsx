@@ -123,12 +123,13 @@ export default async function Home() {
                         className="font-display text-5xl font-medium tracking-tight
                         text-neutral-950 [text-wrap:balance] sm:text-7xl"
                     >
-                        Model Deployment Infrastructure for Robotics
+                        Deploy Models to Your Robots with Ease
                     </h1>
                     <p className="mt-6 max-w-[56rem] text-xl text-neutral-600">
-                        Combat data drift and save hours of manual work. Miru&apos;s pipeline
-                        helps you automatically collect data on the edge, re-train your
-                        models, and quickly deploy them back to the real world.
+                        With Miru, you&apos;re in control. Seamlessly update your robots&apos;
+                        models and software over-the-air, efficiently manage and monitor
+                        your entire fleet, and dynamically trigger changes with just a
+                        few clicks.
                     </p>
                 {/* </FadeIn> */}
             </Container>
