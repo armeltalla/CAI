@@ -125,7 +125,7 @@ export default async function Home() {
                     >
                         Deploy Models to Your Robots with Ease
                     </h1>
-                    <p className="mt-6 max-w-[56rem] text-xl text-neutral-600">
+                    <p className="mt-6 max-w-[60rem] text-xl text-neutral-600">
                         With Miru, you&apos;re in control. Seamlessly update your robots&apos;
                         models and software over-the-air, efficiently manage and monitor
                         your entire fleet, and dynamically trigger changes with just a
